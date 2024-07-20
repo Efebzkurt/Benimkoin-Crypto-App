@@ -5,7 +5,7 @@
 # Benimkoin-Crypto-App
 With benimkoin, can manage your cryptocurrency investments more wisely, react quickly to market movements and take the right steps to achieve your financial goals!
 ## Overview Screen
-![genelscreen](https://github.com/user-attachments/assets/34882897-1acd-47c4-b7f8-f8b9fb61af53 | width=100)
+![genelscreen](https://github.com/user-attachments/assets/34882897-1acd-47c4-b7f8-f8b9fb61af53){: width = "%30"}
 
 ## Portfolio Screen (if portfolio is empty)
 ![Emptyportfolio](https://github.com/user-attachments/assets/67e02aa9-abde-4495-931f-e9a7bd4197c6)
