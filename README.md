@@ -18,7 +18,7 @@ With benimkoin, can manage your cryptocurrency investments more wisely, react qu
 ![Kriptoekle](https://github.com/user-attachments/assets/7a863e09-e8f8-409e-b1ee-632b1bbd2092)
 
 ## Add Crypto (Coin selected)
-<img src="https://github.com/user-attachments/assets/6d8c5075-9b84-40b5-ad5a-3b13bf33d1d6" width="50" height="100">
+<img src="https://github.com/user-attachments/assets/6d8c5075-9b84-40b5-ad5a-3b13bf33d1d6" height="100">
 
 ## Transactions (If you don't have any)
 ![Emptyişlemler](https://github.com/user-attachments/assets/26fef201-1c3e-4f40-9315-208208cf2a16)
