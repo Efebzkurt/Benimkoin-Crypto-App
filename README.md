@@ -8,16 +8,19 @@ With benimkoin, can manage your cryptocurrency investments more wisely, react qu
 ![genelscreen](https://github.com/user-attachments/assets/34882897-1acd-47c4-b7f8-f8b9fb61af53)
 
 
-## Portfolio Screen (if portfolio is empty)
+## Portfolio Screen (If portfolio is empty)
 ![Emptyportfolio](https://github.com/user-attachments/assets/67e02aa9-abde-4495-931f-e9a7bd4197c6)
 
-## Portfolio Screen (if portfolio is not empty)
+## Portfolio Screen (If portfolio is not empty)
 ![Screenshot_1721499557](https://github.com/user-attachments/assets/eb5366a6-276e-48ea-8c7a-077ec1464c99)
 
 ## Add Crypto 
 ![Kriptoekle](https://github.com/user-attachments/assets/7a863e09-e8f8-409e-b1ee-632b1bbd2092)
 
-## Transactions (if you don't have any)
+## Add Crypto (Coin selected)
+<img src="https://github.com/user-attachments/assets/6d8c5075-9b84-40b5-ad5a-3b13bf33d1d6" width="50" height="100">
+
+## Transactions (If you don't have any)
 ![Emptyişlemler](https://github.com/user-attachments/assets/26fef201-1c3e-4f40-9315-208208cf2a16)
 
 ## Transactions 
