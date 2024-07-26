@@ -4,7 +4,7 @@
 
 
 # Benimkoin-Crypto-App
-Benimkoin is an app that you can view your crypto coin portfolio, your transaction history, view market datas like historical bitcoin price in the last 24h,7days,30days,90days,1 year; the coins with the most rising and falling prices in the last 24 hours etc.
+Benimkoin is an app that you can view your crypto coin portfolio, your transaction history, view market datas like historical bitcoin price in the last 24h, 7days, 30days, 90days, 1 year; the coins with the most rising and falling prices in the last 24 hours etc.
 
 With benimkoin, you can manage your cryptocurrency investments more wisely, react quickly to market movements and take the right steps to achieve your financial goals!
 
